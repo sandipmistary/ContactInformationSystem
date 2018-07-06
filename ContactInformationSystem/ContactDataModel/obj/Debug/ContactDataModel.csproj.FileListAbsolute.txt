@@ -1,0 +1,4 @@
+E:\ContactInformationSystem\ContactInformationSystem\ContactDataModel\bin\Debug\ContactDataModel.dll
+E:\ContactInformationSystem\ContactInformationSystem\ContactDataModel\bin\Debug\ContactDataModel.pdb
+E:\ContactInformationSystem\ContactInformationSystem\ContactDataModel\obj\Debug\ContactDataModel.dll
+E:\ContactInformationSystem\ContactInformationSystem\ContactDataModel\obj\Debug\ContactDataModel.pdb
